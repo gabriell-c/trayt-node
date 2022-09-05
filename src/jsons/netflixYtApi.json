@@ -1,0 +1,345 @@
+[
+    {
+        "id": 1,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Santo é um thriller policial que mistura intriga e ação, flertando com o terror em alguns momentos. A trama, que deve chegar à Netflix ainda em 2021, gira em torno de Santo, um traficante de drogas cuja identidade permanece um grande mistério. Diante disso, os policiais federais Ernesto Cardona (Bruno Gagliasso) e Miguel Millán (Raúl Arévalo) decidem investigar o criminoso para, enfim, desmascará-lo. Mas, além de terem métodos completamente opostos, os dois trabalham em continentes diferentes – Cardona está no Brasil, enquanto Millán vive na Espanha. Agora, eles devem aprender a colaborar um com o outro para solucionar o caso e manter a si mesmos em segurança.",
+        "thumb_img":"https://img.youtube.com/vi/J3_tz9wV2Og/maxresdefault.jpg",
+        "name":"Santo | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/J3_tz9wV2Og"
+    },
+    {
+        "id": 2,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Versão nacional do reality show americano lançado pela Netflix, Brincando com Fogo: Brasil reúne em uma praia deserta 12 solteiros de diferentes lugares do país. Nesse cenário paradisíaco, os seis homens e as seis mulheres selecionadas se conhecem pela primeira vez, tendo a chance de descobrir um grande amor. Mas há um pequeno detalhe: para ganhar o prêmio de R$ 500 mil, eles devem abrir mão de qualquer atividade sexual ou contato físico durante o programa. As regras são ditadas pela assistente virtual Lana, e cada infração – até mesmo um selinho – representa uma quantia de dinheiro descontada do valor final. Será que eles aguentam tanta pressão?",
+        "thumb_img":"https://img.youtube.com/vi/NaGNSLkaEYA/maxresdefault.jpg",
+        "name":"Brincando com Fogo: Brasil - Temporada 2 | Trailer oficial | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/NaGNSLkaEYA"
+    },
+    {
+        "id": 3,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Baseado em eventos reais, Narco-Santos acompanha uma investigação da polícia coreana para encontrar um perigoso traficante que opera na América Latina. Para isso, eles usaram um empresário com informações privilegiadas que conheceu o criminoso de perto.",
+        "thumb_img":"https://img.youtube.com/vi/CsQh_SFkLYs/maxresdefault.jpg",
+        "name":"Narco-Santos | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/CsQh_SFkLYs"
+    },
+    {
+        "id": 4,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Um time de futebol juvenil fica preso em uma caverna na Tailândia, e a situação trágica mobiliza uma operação internacional de resgate. Inspirada em uma história real.",
+        "thumb_img":"https://img.youtube.com/vi/i8WSmbrQj7U/maxresdefault.jpg",
+        "name":"O Resgate na Caverna Tailandesa: Minissérie | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/i8WSmbrQj7U"
+    },
+    {
+        "id": 5,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Deusa pensa em seguir carreira solo, colocando à prova o romance com Tadeu. Eva quer que sua música seja gravada por um grande nome. Sonhos que se cruzam e desafiam o destino.",
+        "thumb_img":"https://img.youtube.com/vi/zolVfpUq8qM/maxresdefault.jpg",
+        "name":"Só Se For Por Amor | Trailer Oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/zolVfpUq8qM"
+    },
+    {
+        "id": 6,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Três irmãs que cresceram sozinhas e na pobreza se envolvem em uma conspiração com pessoas ricas e poderosas.",
+        "thumb_img":"https://img.youtube.com/vi/NrgTj_PYdaE/maxresdefault.jpg",
+        "name":"As Três Irmãs | TRAILER OFICIAL | Netflix",
+        "url_video":"https://www.youtube.com/embed/NrgTj_PYdaE"
+    },
+    {
+        "id": 7,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Baseado no livro White Noise, de Don DeLillo, o longa aborda os dramas de uma família norte-americana contemporânea, e suas tentativas de lidar com os conflitos mundanos da vida cotidiana, além de buscar compreender os mistérios universais do amor, morte e a necessidade de buscar a felicidade, mesmo em um mundo incerto.",
+        "thumb_img":"https://img.youtube.com/vi/Ltjepb-zCmc/maxresdefault.jpg",
+        "name":"Ruído Branco | Teaser oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/Ltjepb-zCmc"
+    },
+    {
+        "id": 8,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Um mural incendiário expõe as ficadas secretas de todos os alunos do Colégio Hartley, e Amerie, a autora da obra, vai ter que encarar as consequências.",
+        "thumb_img":"https://img.youtube.com/vi/j8NPMfLcU0Q/maxresdefault.jpg",
+        "name":"Heartbreak High: Onde Tudo Acontece | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/j8NPMfLcU0Q"
+    },
+    {
+        "id": 9,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Para este empresário, os problemas de trabalho não param de crescer. Mas ele descobre um caminho para o mundo imaginário da sua filha, e começa a encontrar soluções.",
+        "thumb_img":"https://img.youtube.com/vi/unt0CBkaydI/maxresdefault.jpg",
+        "name":"Terra dos Sonhos | Teaser oficial | Jason Momoa | Netflix",
+        "url_video":"https://www.youtube.com/embed/unt0CBkaydI"
+    },
+    {
+        "id": 10,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Decididas a controlar seus poderes mágicos, cinco adolescentes encaram rivalidades, romances e estudos do mundo sobrenatural em uma escola para fadas.",
+        "thumb_img":"https://img.youtube.com/vi/jZmW01kkiwE/maxresdefault.jpg",
+        "name":"Fate: A Saga Winx | Temporada 2 - Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/jZmW01kkiwE"
+    },
+    {
+        "id": 11,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Dirigida por Tyler Perry, esta história de amor proibido e drama familiar revela 40 anos de segredos e mentiras ao som do legítimo blues do sul dos EUA.",
+        "thumb_img":"https://img.youtube.com/vi/u5xa5l6zCzc/maxresdefault.jpg",
+        "name":"O Homem do Jazz | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/u5xa5l6zCzc"
+    },
+    {
+        "id": 12,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Nesta comédia romântica, Anzu Hoshino é uma estudante nada heroica, completamente desligada da moda ou dos assuntos do coração, mas 100% conectada ao mundo dos games. Ao esbarrar com o mago Riri, Anzu é obrigada a participar do projeto do Mundo Mágico para impedir o declínio populacional. Ela, então, deixa de lado suas três paixões (videogame, chocolate e gatinhos) e passa a ficar rodeada por bonitões, embora esteja firme no propósito de jamais viver em um jogo de simulação de relacionamentos. Em sua nova vida, Anzu encontra um gatão superpopular, um amigo de infância sarado e um riquinho ingênuo. A presença de Anzu provoca mudanças em todos eles.",
+        "thumb_img":"https://img.youtube.com/vi/gIOHEwnPxdg/maxresdefault.jpg",
+        "name":"Romantic Killer | TEASER OFICIAL | Netflix",
+        "url_video":"https://www.youtube.com/embed/gIOHEwnPxdg"
+    },
+    {
+        "id": 13,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Uma mulher misteriosa e solitária luta contra os fantasmas de um passado sombrio quando a vizinha pede ajuda para resgatar a filha pequena, que foi sequestrada.",
+        "thumb_img":"https://img.youtube.com/vi/5mpyD2YWAdU/maxresdefault.jpg",
+        "name":"Lou | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/5mpyD2YWAdU"
+    },
+    {
+        "id": 14,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"Uma psiquiatra abriga uma jovem que está fugindo de um culto misterioso, sem nem perceber que esse gesto pode colocar a própria família em risco.",
+        "thumb_img":"https://img.youtube.com/vi/sboFLmeD/maxresdefault.jpg",
+        "name":"O Diabo em Ohio | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/sboFLmeD-9M"
+    },
+    {
+        "id": 15,
+        "streaming":"Netflix",
+        "category":"trailer_oficial",
+        "desc":"A busca pelos filhos desaparecidos de Lori Vallow começa a revelar mortes suspeitas, um marido com as mesmas crenças apocalípticas e, pior ainda, assassinatos.",
+        "thumb_img":"https://img.youtube.com/vi/VKGs0YvcHk8/maxresdefault.jpg",
+        "name":"Os Crimes da Nossa Mãe | Trailer oficial | Netflix",
+        "url_video":"https://www.youtube.com/embed/VKGs0YvcHk8"
+    },
+    {
+        "id": 16,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/QZUgA8G8nOY/maxresdefault.jpg",
+        "name":"Seul em Alta Velocidade | Por Trás das Câmeras: De volta a 1988 | Netflix",
+        "url_video":"https://www.youtube.com/embed/QZUgA8G8nOY"
+    },
+    {
+        "id": 1,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/JT2tEZKjKms/maxresdefault.jpg",
+        "name":"Hierarquia | Subindo na carreira | Netflix",
+        "url_video":"https://www.youtube.com/embed/JT2tEZKjKms"
+    },
+    {
+        "id": 18,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/ghbLLKZmEdk/maxresdefault.jpg",
+        "name":"Sandman | O mundo dos Perpétuos | Netflix",
+        "url_video":"https://www.youtube.com/embed/ghbLLKZmEdk"
+    },
+    {
+        "id": 19,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/4o29Tik4Abw/maxresdefault.jpg",
+        "name":"Carter | Por Trás das Câmeras | Netflix",
+        "url_video":"https://www.youtube.com/embed/4o29Tik4Abw"
+    },
+    {
+        "id": 20,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/i9inu6BA22A/maxresdefault.jpg",
+        "name":"Bastidores de Stranger Things: Nascimento do Vecna | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/i9inu6BA22A"
+    },
+    {
+        "id": 21,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/7aUevrP1KpU/maxresdefault.jpg",
+        "name":"Stranger Things joga Dungeons & Dragons: Clube Hellfire | Semana Geeked Netflix",
+        "url_video":"https://www.youtube.com/embed/7aUevrP1KpU"
+    },
+    {
+        "id": 22,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/9LGRsfhTA6g/maxresdefault.jpg",
+        "name":"Tudo sobre Stranger Things 4 – Vol. 1 | Aftershow oficial COM SPOILERS | Semana Geeked Netflix",
+        "url_video":"https://www.youtube.com/embed/9LGRsfhTA6g"
+    },
+    {
+        "id": 23,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/rFn8ZqdJRQo/maxresdefault.jpg",
+        "name":"Cyberpunk: Mercenários | Parte 1 - CD PROJEKT RED | Semana Geeked Netflix",
+        "url_video":"https://www.youtube.com/embed/rFn8ZqdJRQo"
+    },
+    {
+        "id": 24,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/aE5B22sbWJI/maxresdefault.jpg",
+        "name":"Dupla Jornada | Semana Geeked - Bastidores | Netflix",
+        "url_video":"https://www.youtube.com/embed/aE5B22sbWJI"
+    },
+    {
+        "id": 25,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/x9H3fV5bTrM/maxresdefault.jpg",
+        "name":"Ozark: Temporada 4 – Parte 2 | Ruth | Netflix",
+        "url_video":"https://www.youtube.com/embed/x9H3fV5bTrM"
+    },
+    {
+        "id": 26,
+        "streaming":"Netflix",
+        "category":"por_tras_das_cameras",
+        "thumb_img":"https://img.youtube.com/vi/VuF6mj1fZyw/maxresdefault.jpg",
+        "name":"Ozark: temporada 4 - parte 2 | O adeus à casa dos Byrde | Netflix",
+        "url_video":"https://www.youtube.com/embed/VuF6mj1fZyw"
+    },
+    {
+        "id": 27,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/-Tk6daBplhI/maxresdefault.jpg",
+        "name":"Um encontro com o EDDIE vale qualquer coisa? 🙏| Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/-Tk6daBplhI"
+    },
+    {
+        "id": 28,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/B1clvQ7Y88A/maxresdefault.jpg",
+        "name":"Sereia Iara de Cuphead dançando e cantando 🧜‍♀️ | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/B1clvQ7Y88A"
+    },
+    {
+        "id": 29,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/O6bck0tcjp0/maxresdefault.jpg",
+        "name":"PERSONAGENS QUE TEM O MESMO DUBLADOR 🤯🤯 - Parte 2 | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/O6bck0tcjp0"
+    },
+    {
+        "id": 30,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/iFc7AOP3uZc/maxresdefault.jpg",
+        "name":"Você já viu a dublagem PORTUGUESA de #pokemon ?!!??👀 | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/iFc7AOP3uZc"
+    },
+    {
+        "id": 31,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/Y-fc-E4TJPQ/maxresdefault.jpg",
+        "name":"Somente 5% das pessoas FARIAM isso 🙏 #OsPinguinsdeMadagascar | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/Y-fc-E4TJPQ"
+    },
+    {
+        "id": 32,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/QJrS-XAzEsY/maxresdefault.jpg",
+        "name":"O que será que os gatos sonham? #Sandman #Cats | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/QJrS-XAzEsY"
+    },
+    {
+        "id": 33,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/W69rBP5etyA/maxresdefault.jpg",
+        "name":"Tente descobrir qual é o #anime só pelo som! | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/W69rBP5etyA"
+    },
+    {
+        "id": 34,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/udDt_6bqk5I/maxresdefault.jpg",
+        "name":"Coçaria as nádegas do Shrek? #ShrekTerceiro | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/udDt_6bqk5I"
+    },
+    {
+        "id": 35,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/mZCfL3RZClM/maxresdefault.jpg",
+        "name":"Eu Sou Assim Como Você | Barbie em A Princesa e a Plebeia | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/mZCfL3RZClM"
+    },
+    {
+        "id": 36,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/4PzGP15bxk0/maxresdefault.jpg",
+        "name":"Episódio Especial de #Sandman #UmSonhodeMilGatos | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/4PzGP15bxk0"
+    },
+    {
+        "id": 37,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/12PDUXAxwHU/maxresdefault.jpg",
+        "name":"O que esses vampiros fazem é inacreditável! | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/12PDUXAxwHU"
+    },
+    {
+        "id": 38,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/97WGGa1PIGc/maxresdefault.jpg",
+        "name":"Escutar Olivia Rodrigo diariamente dá nisso #EuNunca | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/97WGGa1PIGc"
+    },
+    {
+        "id": 39,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/Mr5A7kkScuE/maxresdefault.jpg",
+        "name":"Alvin e os Esquilos Talaricos? | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/Mr5A7kkScuE"
+    },
+    {
+        "id": 40,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/4L04tqVT2eI/maxresdefault.jpg",
+        "name":"A doença do sono aconteceu de verdade! #Sandman | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/4L04tqVT2eI"
+    },
+    {
+        "id": 41,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/N7wbg2WPkGQ/maxresdefault.jpg",
+        "name":"RRR tem a cena de ação mais maluca que você já viu | Parte 2 | #RRR #RevoltaRebeliãoRevolução",
+        "url_video":"https://www.youtube.com/embed/N7wbg2WPkGQ"
+    }
+]

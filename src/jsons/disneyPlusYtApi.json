@@ -1,0 +1,312 @@
+[
+    {
+        "id": 125,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"No live action de Pinóquio, somos apresentados à verdade sombria por trás de um clássico que marcou gerações. O solitário marceneiro Gepeto (Roberto Benigni) tem o grande desejo de ser pai, e deseja que Pinóquio (Federico Ielapi), o boneco de madeira que acabou de construir, ganhe vida. Seu pedido é atendido, mas a desobediência do jovem brinquedo faz com que ele se perca de casa e embarque em uma jornada repleta de mistérios e seres mágicos, que o levará a conhecer de fato os perigos do mundo.",
+        "thumb_img":"https://img.youtube.com/vi/kmWSH6nQ8f0/maxresdefault.jpg",
+        "name":"Pinóquio | Trailer Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/kmWSH6nQ8f0"
+    },
+    {
+        "id": 126,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Continuação da franquia Carros da Pixar, Car on the Road acompanha o campeão Relâmpago McQueen em uma viagem pelas estradas dos Estados Unidos com seu amigo Tom Mate. Os dois saem em divertidas aventuras por várias cidades, entrando em diversas confusões e encontrando velhos amigos pelo caminho.",
+        "thumb_img":"https://img.youtube.com/vi/n7ZbJk1qgks/maxresdefault.jpg",
+        "name":"Carros na Estrada | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/n7ZbJk1qgks"
+    },
+    {
+        "id": 127,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"A família Clade não é muito igual as outras. Eles são exploradores que desbravam novas terras e estão em uma missão para explorar um mundo estranho e não conhecido. Porém, as diferenças entre os membros da família podem por sua nova missão em risco.",
+        "thumb_img":"https://img.youtube.com/vi/mqweyhnQD1E/maxresdefault.jpg",
+        "name":"Mundo Estranho | Teaser Trailer Oficial Dublado",
+        "url_video":"https://www.youtube.com/embed/mqweyhnQD1E"
+    },
+    {
+        "id": 128,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Já se passaram 29 anos desde que alguém acendeu a Vela da Chama Negra e ressuscitou as irmãs bruxas Sanderson do século XVII, e elas estão em busca de vingança. Agora, cabe a três adolescentes impedir que as vorazes bruxas despertem um novo tipo de caos em Salem antes do amanhecer da véspera do Dia de Todos os Santos",
+        "thumb_img":"https://img.youtube.com/vi/q25hRul0rMc/maxresdefault.jpg",
+        "name":"Abracadabra 2 | Teaser Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/q25hRul0rMc"
+    },
+    {
+        "id": 129,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Legendado",
+        "desc":"Em The Mysterious Benedict Society quatro órfãos recebem uma missão secreta de homem excêntrico, mas benfeitor. Para cumpri-la, eles começam a estudar disfarçados em um colégio interno conhecido como The Institute. Lá, o grupo precisa acabar com uma trama maligna e global, enquanto tentam se unir como uma família.",
+        "thumb_img":"https://img.youtube.com/vi/knU1E8GI5Go/maxresdefault.jpg",
+        "name":"A Misteriosa Sociedade Benedict | Trailer Oficial | Temporada 2 | Disney+",
+        "url_video":"https://www.youtube.com/embed/knU1E8GI5Go"
+    },
+    {
+        "id": 130,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Depois de muitos anos como um dos piores times de hóquei juvenil, os Mighty Ducks se tornam agora um grupo super competitivo e poderoso. Quando Evan (Brady Noon), um menino de 12 anos, é cortado de forma agressiva dos Ducks, ele e sua mãe Alex (Lauren Graham) decidem montar seu próprio time de desajustados, com a ajuda do treinador Gordon Bombay (Emilio Estevez).",
+        "thumb_img":"https://img.youtube.com/vi/HphqDqvkvQI/maxresdefault.jpg",
+        "name":"Virando o Jogo dos Campeões | Trailer Oficial Dublado | Temporada 2 | Disney+",
+        "url_video":"https://www.youtube.com/embed/HphqDqvkvQI"
+    },
+    {
+        "id": 131,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Legendado",
+        "desc":"O Coro: Sucesso, Aqui Vou Eu é uma série musical brasileira original do Disney+. A trama conta a trajetória de um grupo de jovens adultos, com diferentes origens e histórias, que veem no anúncio de uma audição para uma companhia de teatro a oportunidade de retomar a busca de seus sonhos adormecidos e começar uma carreira como ator. Aprovados numa primeira triagem, os aspirantes a cantores-atores vivem um misto de emoções como deslumbramento com o mundo do teatro musical, a descoberta de novos amores, traumas do passado e o medo da reprovação, já que não sabem se serão contratados no final dos testes. ​",
+        "thumb_img":"https://img.youtube.com/vi/C_fXQ9vsGNc/maxresdefault.jpg",
+        "name":"O Coro - Sucesso Aqui Vou Eu | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/C_fXQ9vsGNc"
+    },
+    {
+        "id": 132,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Legendado",
+        "desc":"A série Terra Incógnita acompanha os passos de Eric Dalaras (Pedro Maurizi), um adolescente que descobre um mundo bastante assustador enquanto busca a verdade por trás do misterioso desaparecimento de seus pais, sumidos há oito anos. Criado por seus avós maternos junto de sua irmã, Uma (Mora Fisz), Eric decide fugir de casa e voltar para sua cidade natal, Cabo Qwert, visando encontrar respostas no parque de diversões de terror Terra Incógnita, onde seus pais foram vistos pela última vez. Junto dos amigos, sua irmã e sua tia, Eric deverá superar seus medos para resolver esse mistério e encontrar respostas em um universo tão obscuro quanto desconhecido.",
+        "thumb_img":"https://img.youtube.com/vi/u4TOQMFAl4M/maxresdefault.jpg",
+        "name":"Terra Incógnita | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/u4TOQMFAl4M"
+    },
+    {
+        "id": 133,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Califórnia recebe um presente inusitado ao completar 13 anos: as chaves de uma van, enviadas por sua mãe há muito tempo desaparecida. Os três pais adotivos de Califórnia não estão muito convencidos, mas ela quer seguir essa rota.",
+        "thumb_img":"https://img.youtube.com/vi/Nq8dLj1ola0/maxresdefault.jpg",
+        "name":"Pais por Acidente | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/Nq8dLj1ola0"
+    },
+    {
+        "id": 134,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"A 3ª temporada se passa em um acampamento na Califórnia chamado Camp Shallow Lake. Lá, os Wildcats e seus companheiros de acampamento se preparam para viver um verão inesquecível, cheio de romance, noites sem hora para dormir e a chance de curtir a natureza.",
+        "thumb_img":"https://img.youtube.com/vi/aVIeGa4YpX8/maxresdefault.jpg",
+        "name":"High School Musical: A Série: O Musical | Temporada 3 | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/aVIeGa4YpX8"
+    },
+    {
+        "id": 135,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Ariana sonha em ser cantora. Seu namorado decide inscrevê-los no concurso cultural da escola para apresentarem um show musical. Além dos medos e inseguranças, ela precisará encarar uma rival, que fará de tudo para atrapalhar a apresentação deles.",
+        "thumb_img":"https://img.youtube.com/vi/gRNvUmWq52I/maxresdefault.jpg",
+        "name":"Hora de Brilhar | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/gRNvUmWq52I"
+    },
+    {
+        "id": 136,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Sempre Fui Eu é uma série inédita do Disney+ que conta a história de Lupe (Karol Sevilla), uma jovem mexicana cuja vida vira de cabeça para baixo quando recebe a notícia da morte de seu pai, El Faraón (Christian Tappan) – o maior astro musical da Colômbia. Ela decide, então, sair de seu país natal para ir ao funeral, na cidade de Cartagena. Rapidamente, Lupe percebe que ali nada é o que parece e resolve se inscrever em um concurso musical para ficar mais próxima da realidade de seu pai e, assim, investigar sua morte inesperada. Com a ajuda de Noah (Pipe Bueno), o jovem ex-assistente de El Faraón, Lupe embarca em uma aventura cheia de perigo, romance e muita música para desvendar esse mistério no coração do Caribe colombiano.",
+        "thumb_img":"https://img.youtube.com/vi/Z9l1EYKxSFY/maxresdefault.jpg",
+        "name":"Sempre Fui Eu | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/Z9l1EYKxSFY"
+    },
+    {
+        "id": 137,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"A série acompanha famílias tão ocupadas com suas vidas individuais que perderam o contato um com o outro. Em cada episódio, uma família deixa para trás os compromissos, os eletrônicos e as distrações e entra em uma jornada de uma semana, guiada por um guia de 'Recomeço em Família', para se reconectar e reconstruir seus laços familiares.",
+        "thumb_img":"https://img.youtube.com/vi/TSNmbMuBgQ4/maxresdefault.jpg",
+        "name":"Recomeço em Família | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/TSNmbMuBgQ4"
+    },
+    {
+        "id": 138,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"É o último ano de Addison e Zed em Seabrook High, a escola que reúne todo tipo de ser: humanos, lobisomens e zumbis. A cidade de Seabrook também virou um local seguro para os seres, onde humanos e monstros vivem em perfeita harmonia. Com os últimos preparativos para a formatura e faculdade, os planos de Zed e Addison são interrompidos quando seres intergalácticos invadem a cidade.",
+        "thumb_img":"https://img.youtube.com/vi/l4oEQh0QKbw/maxresdefault.jpg",
+        "name":"ZOMBIES 3 | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/l4oEQh0QKbw"
+    },
+    {
+        "id": 139,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Emily (Olesya Rulin) cresceu em meio a uma família completamente disfuncional. Sua mãe, Samantha (Kristin Chenoweth), é uma racional e poderosa executiva, sem tempo algum para a família, enquanto seu pai, Duncan (Matthew Modine), só liga pra sua arte. Com irmãos tão doidos quanto os pais, Emily é, surpreendentemente, uma aluna exemplar. Mas quando ela participa de um campeonato regional de pular corda, garantindo vaga para o estadual, e seus pais não comparecem a esse dia tão importante, ela fica frustrada com a falta de apoio deles. Então, ela decide fazer os pais de refém dentro da própria casa, para ter um fim de semana 'comum' em família.",
+        "thumb_img":"https://img.youtube.com/vi/VGhmZFU91kk/maxresdefault.jpg",
+        "name":"Fim de semana em Família | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/VGhmZFU91kk"
+    },
+    {
+        "id": 140,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Legendado",
+        "desc":"'Trevor: O Musical' é uma história engraçada e muito comovente sobre um adolescente de 13 anos com muita imaginação e entusiasmo. Um incidente constrangedor na escola o coloca em destaque, mas não como ele desejava, e Trevor precisa descobrir quem é e como se encaixar num mundo cheio de desafios. Esse musical apresenta conteúdo suicida e pode ferir a sensibilidade de alguns espectadores.",
+        "thumb_img":"https://img.youtube.com/vi/41tDAsBFQv8/maxresdefault.jpg",
+        "name":"Trevor: O Musical | Trailer Oficial Legendado | Disney+",
+        "url_video":"https://www.youtube.com/embed/41tDAsBFQv8"
+    },
+    {
+        "id": 141,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Em Rise, após emigrarem da Grécia para Nigéria, Vera e Charles Antetokounmpo lutaram para sobreviver e sustentar seus cinco filhos, enquanto viviam sob a ameaça diária de deportação. Com seu filho mais velho ainda na Nigéria com parentes, o casal estava desesperado para obter cidadania grega mas se viu minado por um sistema que os bloqueava a cada tentativa. Quando não estavam vendendo artigos para turistas nas ruas com o resto da família, encorajados pelo pai, os irmãos iam escondidos jogar basquete com um time juvenil local. Ingressando tarde no esporte, eles descobriram suas grandes habilidades na quadra de basquete e se esforçaram muito para se tornarem atletas de altíssimo nível. Com a ajuda de um agente, Giannis entrou no NBA Draft em 2013 em uma improvável perspectiva que mudaria não apenas sua vida, mas a vida de toda a sua família",
+        "thumb_img":"https://img.youtube.com/vi/-eQKkeEmeBs/maxresdefault.jpg",
+        "name":"Rise | Teaser Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/-eQKkeEmeBs"
+    },
+    {
+        "id": 142,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"No live action de Pinóquio, somos apresentados à verdade sombria por trás de um clássico que marcou gerações. O solitário marceneiro Gepeto (Roberto Benigni) tem o grande desejo de ser pai, e deseja que Pinóquio (Federico Ielapi), o boneco de madeira que acabou de construir, ganhe vida. Seu pedido é atendido, mas a desobediência do jovem brinquedo faz com que ele se perca de casa e embarque em uma jornada repleta de mistérios e seres mágicos, que o levará a conhecer de fato os perigos do mundo.",
+        "thumb_img":"https://img.youtube.com/vi/4_Va8zXg1Ig/maxresdefault.jpg",
+        "name":"Pinóquio | Teaser Trailer Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/4_Va8zXg1Ig"
+    },
+    {
+        "id": 143,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Continuação da animação Big Hero 6, Baymax! acompanha o simpático robô homônimo trabalhando como um ajudante de idosos pela cidade de San Fransokyo. Mas quando a tia Cass acaba sofrendo uma lesão no tornozelo, Baymax rapidamente se oferece para ajudá-la a comandar a sua cafeteria. Embora possua várias habilidades, o robô apresenta serva dificuldade em cumprir pequenas tarefas do dia-a-dia, mas aos poucos Baymax consegue se adaptar a nova rotina",
+        "thumb_img":"https://img.youtube.com/vi/fKTzCunAsI8/maxresdefault.jpg",
+        "name":"Baymax! | Trailer Oficial 2 Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/fKTzCunAsI8"
+    },
+    {
+        "id": 144,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Uma aventura de ação de ficção científica e a história de origem definitiva de Buzz Lightyear, o herói que inspirou o brinquedo em Toy Story (1995). Lightyear segue o lendário Patrulheiro Espacial depois que em um teste de voo da nave espacial faz com que ele vá para um planeta hostil e fique abandonado a 4,2 milhões de anos-luz da Terra ao lado de seu comandante e sua tripulação. Enquanto Buzz tenta encontrar um caminho de volta para casa através do espaço e do tempo, ele descobre que já se passaram muitos anos desde seu teste de voo e que os descendentes de seus amigos, um grupo de recrutas ambiciosos, e seu charmoso gato companheiro robô, Sox. Para complicar as coisas e ameaçar a missão está a chegada de Zurg, uma presença alienígena imponente com um exército de robôs implacáveis e uma agenda misteriosa.",
+        "thumb_img":"https://img.youtube.com/vi/DcHYpu8Wfl0/maxresdefault.jpg",
+        "name":"Lightyear | Trailer Oficial 3 Dublado",
+        "url_video":"https://www.youtube.com/embed/DcHYpu8Wfl0"
+    },
+    {
+        "id": 145,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"A Era do Gelo: Histórias do Scrat traz de volta o esquilo pré-histórico mais amado do cinema protagonizando sua própria série animada. Ele retorna vivendo aventuras ainda mais divertidas, mas com uma grande novidade: não está mais sozinho. Em uma de suas buscas pela preciosa noz, Scrat encontra algo ainda mais valioso, um filhote de esquilo perdido na selva. Agora, ele precisará aprender como cuidar da pequena criatura.",
+        "thumb_img":"https://img.youtube.com/vi/GWNqwzTdGvU/maxresdefault.jpg",
+        "name":"A Era do Gelo: Histórias do Scrat | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/GWNqwzTdGvU"
+    },
+    {
+        "id": 416,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Uma aventura de ação de ficção científica e a história de origem definitiva de Buzz Lightyear, o herói que inspirou o brinquedo em Toy Story (1995). Lightyear segue o lendário Patrulheiro Espacial depois que em um teste de voo da nave espacial faz com que ele vá para um planeta hostil e fique abandonado a 4,2 milhões de anos-luz da Terra ao lado de seu comandante e sua tripulação. Enquanto Buzz tenta encontrar um caminho de volta para casa através do espaço e do tempo, ele descobre que já se passaram muitos anos desde seu teste de voo e que os descendentes de seus amigos, um grupo de recrutas ambiciosos, e seu charmoso gato companheiro robô, Sox. Para complicar as coisas e ameaçar a missão está a chegada de Zurg, uma presença alienígena imponente com um exército de robôs implacáveis e uma agenda misteriosa.",
+        "thumb_img":"https://img.youtube.com/vi/DbBe5U8m_KU/maxresdefault.jpg",
+        "name":"Lightyear | Trailer Oficial Dublado",
+        "url_video":"https://www.youtube.com/embed/DbBe5U8m_KU"
+    },
+    {
+        "id": 147,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Nesta série que mistura reality show de competição e fantasia, oito adolescentes da vida real são inseridos em um mundo fantástico e fictício chamado Everealm. Este reino é uma terra de beleza e magia incomparáveis, mas se encontra ameaçado por uma Feiticeira poderosa. Por conta disso, o destino convoca esses jovens estranhos para trabalhar em equipe e cumprir uma profecia capaz de derrotar a Feiticeira. Através de desafios que testam seus limites individuais e de grupo, os jovens devem libertar seus heróis interiores. Conhecidos neste novo mundo como paladinos, eles precisam explorar o reino e protegê-lo através da antiga profecia. Ao longo dos episódios, os participantes devem ficar imersos neste mundo fantasioso com castelos, realeza, lugares mágicos e sombrios, criaturas místicas e uma vilã feiticeira que tem como objetivo causar destruição e acumular poder.",
+        "thumb_img":"https://img.youtube.com/vi/6ArYnb2_R6o/maxresdefault.jpg",
+        "name":"The Quest: A Missão | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/6ArYnb2_R6o"
+    },
+    {
+        "id": 148,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Continuação do filme de 2020. A jovem de espírito livre Estrela Caraway, uma adolescente com uma linda voz. A sequência acompanha a jornada de Estrela além da cidade de Mica, no Arizona, para um mundo muito maior e repleto de música, sonhos e possibilidades. Quando sua mãe Ana é contratada como figurinista em um filme e se mudam para Los Angeles, onde Estrela se envolve com outras pessoas. Entre eles estão os irmãos a cineastas Evan e Terrell, Sr. Mitchell, vizinho de Estrela; e Roxanne Martel, uma musicista que Estrela admira e encontra em seu caminho.",
+        "thumb_img":"https://img.youtube.com/vi/NWvgdeLB3nc/maxresdefault.jpg",
+        "name":"A Extraordinária Garota Chamada Estrela em Hollywood | Teaser Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/NWvgdeLB3nc"
+    },
+    {
+        "id": 149,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Em Red: Crescer É uma Fera, quando uma adolescente fica muito nervosa, ela se transforma em um grande panda vermelho. O longa aborda dessa forma, a jornada de amadurecimento da personagem, suas inseguranças dessa fase onde, a personagem principal está dividida entre a filha que sempre foi e sua nova personalidade, intensificada por todos os sentimentos conflitantes que a adolescência provoca. Além do caos gerado por todas as mudanças em seus interesses, relacionamentos e corpo, sempre que a garota fica muito agitada ou estressada, ela vira um panda vermelho gigante, - o que com certeza, só gera mais problemas para a jovem - sendo uma metáfora para todas as vezes que, constrangidos pelos novos desafios que se apresentam em nossas vidas, as inseguranças só se agigantam.",
+        "thumb_img":"https://img.youtube.com/vi/YeQoQNZq7wg/maxresdefault.jpg",
+        "name":"Red - Crescer é uma Fera | Trailer Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/YeQoQNZq7wg"
+    },
+    {
+        "id": 150,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Depois de fazerem sucesso na série Tico e Teco os Defensores da Lei, os protagonistas Tico e Teco foram esquecidos. Anos mais tarde, a dupla retorna quando Teco recebe uma cirurgia computadorizada e pede ajuda para Tico. Reunidos, a dupla vai em busca dos outros integrantes do grupo, onde cada um deles tem um vício diferente por conta da fama.",
+        "thumb_img":"https://img.youtube.com/vi/oYyjB7eROPg/maxresdefault.jpg",
+        "name":"Tico e Teco: Defensores da Lei | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/oYyjB7eROPg"
+    },
+    {
+        "id": 151,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Sempre Fui Eu é uma série inédita do Disney+ que conta a história de Lupe (Karol Sevilla), uma jovem mexicana cuja vida vira de cabeça para baixo quando recebe a notícia da morte de seu pai, El Faraón (Christian Tappan) – o maior astro musical da Colômbia. Ela decide, então, sair de seu país natal para ir ao funeral, na cidade de Cartagena. Rapidamente, Lupe percebe que ali nada é o que parece e resolve se inscrever em um concurso musical para ficar mais próxima da realidade de seu pai e, assim, investigar sua morte inesperada. Com a ajuda de Noah (Pipe Bueno), o jovem ex-assistente de El Faraón, Lupe embarca em uma aventura cheia de perigo, romance e muita música para desvendar esse mistério no coração do Caribe colombiano.",
+        "thumb_img":"https://img.youtube.com/vi/qbXM_RB1pA0/maxresdefault.jpg",
+        "name":"Sempre Fui Eu | Teaser Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/qbXM_RB1pA0"
+    },
+    {
+        "id": 152,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Em Tudo Igual...SQN, série baseada no livro A Porta Ao Lado, de Lily Trigo, acompanhamos a jovem Carol (Gabriella Saraivah) passando por um período de grandes transformações em sua vida. Recentemente, a mãe de Carol casou-se com o namorado e agora ela precisa se adaptar a conviver não apenas com o casal, mas também com o filho do padrasto. Simultaneamente, Carol também inicia seu primeiro namoro, o que faz com que ela comece a passar por situações inesperadas e tenha amizades antigas colocadas à prova. Carol passa por um turbilhão de emoções enquanto lida com os desafios típicos da adolescência. Agora, a jovem está em uma jornada para aprender a conhecer a si mesma e respeitar os seus próprios sentimentos, apesar dos erros que pode cometer no percurso para a almejada felicidade.  ",
+        "thumb_img":"https://img.youtube.com/vi/Zr_WMmJgOx8/maxresdefault.jpg",
+        "name":"Tudo Igual... SQN | Trailer Oficial | Disney+",
+        "url_video":"https://www.youtube.com/embed/foOfR5hRSZE"
+    },
+    {
+        "id": 153,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Os Tênis Encantados é uma versão contemporânea do clássico 'Cinderela', onde, em meio a cultura de rua de Nova York, El vive seu próprio conto de fadas. O aspirante a designer de tênis do Queens, El, trabalha no estoque da loja de sapatos de sua falecida mãe. Com problemas de convivência na família, o jovem esconde o seu talento dos irmãos e padrasto, que tentam sempre minar sua autoestima e atrapalhar seus planos. Tudo muda quando o garoto conhece e se apaixona por Kira King, de Manhattan, filha do astro do basquete e magnata do tênis Darius King. A relação com a jovem independente traz confiança para El ser capaz de realizar seu sonho, de se tornar um designer profissional de tênis. Mas para isso, ele precisará contar com a ajuda de sua melhor amiga, Sami, e sua fada Padrinho - e muita coragem para conquistar tudo o que deseja para sua vida.",
+        "thumb_img":"https://img.youtube.com/vi/2M0QJ5uBfnY/maxresdefault.jpg",
+        "name":"Os Tênis Encantados | Trailer 2 Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/2M0QJ5uBfnY"
+    },
+    {
+        "id": 154,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"Quatro equipes de adolescentes de todo o mundo se preparam para a Primeira Competição de Robótica de 2020, mas em um ano como nenhum outro, as crianças aprendem que há mais na competição do que apenas robôs.",
+        "thumb_img":"https://img.youtube.com/vi/CbmymDK6nzM/maxresdefault.jpg",
+        "name":"Mais que Robôs | Trailer Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/CbmymDK6nzM"
+    },
+    {
+        "id": 155,
+        "streaming":"Disney_Plus",
+        "category":"trailer_oficial",
+        "audio":"Dublado",
+        "desc":"A Família Radical: Maior e Melhor é continuação da série animada dos anos 2000. A trama segue novamente o cotidiano da família Proud e suas aventuras e retomará a história de sua personagem central, Penny Proud, e incluirá seus pais Oscar e Trudy, os irmãos gêmeos Bibi e Cici, e a avó Sugar Mama. E claro, não seria A Família Radical sem a turma leal da Penny: Dijonay Jones, LaCienega Boulevardez e Zoey Howzer, entre outros. Agora mais velha, Penny começa a se interessar pelos rapazes e começa a namorar o belo Kareem. Mas seu pai super protetor não dará um minuto de sossego para o jovem casal.",
+        "thumb_img":"https://img.youtube.com/vi/HgGiMeWsnnY/maxresdefault.jpg",
+        "name":"A Família Radical: Maior e Melhor | Trailer 2 Oficial Dublado | Disney+",
+        "url_video":"https://www.youtube.com/embed/HgGiMeWsnnY"
+    }
+]
