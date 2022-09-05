@@ -7,6 +7,7 @@ router.get('/', ApiController.lisAllApi);
 router.get('/api/netflix', ApiController.listApiNetflix);
 router.get('/api/primevideo', ApiController.listApiPrimeVideo);
 router.get('/api/starplus', ApiController.listApiStartPlus);
+router.get('/api/disneyplus', ApiController.listApiDisneyPlus);
 router.get('/api/all', ApiController.allApi);
 
 export default router;
