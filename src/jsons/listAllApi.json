@@ -28,5 +28,17 @@
         "title":"Todas juntas",
         "url":"/api/all",
         "method":"GET"
+    },
+    {
+        "id": 6,
+        "title":"Somente Trailers/Taser oficiais",
+        "url":"/api/trailers",
+        "method":"GET"
+    },
+    {
+        "id": 7,
+        "title":"Somente outros",
+        "url":"/api/outros",
+        "method":"GET"
     }
 ]
