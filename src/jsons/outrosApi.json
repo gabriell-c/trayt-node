@@ -1,0 +1,346 @@
+[
+    {
+        "id": 27,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/-Tk6daBplhI/maxresdefault.jpg",
+        "name":"Um encontro com o EDDIE vale qualquer coisa? 🙏| Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/-Tk6daBplhI"
+    },
+    {
+        "id": 28,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/B1clvQ7Y88A/maxresdefault.jpg",
+        "name":"Sereia Iara de Cuphead dançando e cantando 🧜‍♀️ | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/B1clvQ7Y88A"
+    },
+    {
+        "id": 29,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/O6bck0tcjp0/maxresdefault.jpg",
+        "name":"PERSONAGENS QUE TEM O MESMO DUBLADOR 🤯🤯 - Parte 2 | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/O6bck0tcjp0"
+    },
+    {
+        "id": 30,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/iFc7AOP3uZc/maxresdefault.jpg",
+        "name":"Você já viu a dublagem PORTUGUESA de #pokemon ?!!??👀 | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/iFc7AOP3uZc"
+    },
+    {
+        "id": 31,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/Y-fc-E4TJPQ/maxresdefault.jpg",
+        "name":"Somente 5% das pessoas FARIAM isso 🙏 #OsPinguinsdeMadagascar | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/Y-fc-E4TJPQ"
+    },
+    {
+        "id": 32,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/QJrS-XAzEsY/maxresdefault.jpg",
+        "name":"O que será que os gatos sonham? #Sandman #Cats | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/QJrS-XAzEsY"
+    },
+    {
+        "id": 33,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/W69rBP5etyA/maxresdefault.jpg",
+        "name":"Tente descobrir qual é o #anime só pelo som! | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/W69rBP5etyA"
+    },
+    {
+        "id": 34,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/udDt_6bqk5I/maxresdefault.jpg",
+        "name":"Coçaria as nádegas do Shrek? #ShrekTerceiro | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/udDt_6bqk5I"
+    },
+    {
+        "id": 35,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/mZCfL3RZClM/maxresdefault.jpg",
+        "name":"Eu Sou Assim Como Você | Barbie em A Princesa e a Plebeia | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/mZCfL3RZClM"
+    },
+    {
+        "id": 36,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/4PzGP15bxk0/maxresdefault.jpg",
+        "name":"Episódio Especial de #Sandman #UmSonhodeMilGatos | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/4PzGP15bxk0"
+    },
+    {
+        "id": 37,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/12PDUXAxwHU/maxresdefault.jpg",
+        "name":"O que esses vampiros fazem é inacreditável! | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/12PDUXAxwHU"
+    },
+    {
+        "id": 38,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/97WGGa1PIGc/maxresdefault.jpg",
+        "name":"Escutar Olivia Rodrigo diariamente dá nisso #EuNunca | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/97WGGa1PIGc"
+    },
+    {
+        "id": 39,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/Mr5A7kkScuE/maxresdefault.jpg",
+        "name":"Alvin e os Esquilos Talaricos? | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/Mr5A7kkScuE"
+    },
+    {
+        "id": 40,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/4L04tqVT2eI/maxresdefault.jpg",
+        "name":"A doença do sono aconteceu de verdade! #Sandman | Netflix Brasil",
+        "url_video":"https://www.youtube.com/embed/4L04tqVT2eI"
+    },
+    {
+        "id": 41,
+        "streaming":"Netflix",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/N7wbg2WPkGQ/maxresdefault.jpg",
+        "name":"RRR tem a cena de ação mais maluca que você já viu | Parte 2 | #RRR #RevoltaRebeliãoRevolução",
+        "url_video":"https://www.youtube.com/embed/N7wbg2WPkGQ"
+    },
+    {
+        "id": 63,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/XbNvhAMcFvs/maxresdefault.jpg",
+        "name":"PATRIZIA, A RAINHA DOS LOOKS",
+        "url_video":"https://www.youtube.com/embed/XbNvhAMcFvs"
+    },
+    {
+        "id": 64,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/PWnpOvuTkEo/maxresdefault.jpg",
+        "name":"A nossa aventura épica começou! #OsAnéisdePoder",
+        "url_video":"https://www.youtube.com/embed/PWnpOvuTkEo"
+    },
+    {
+        "id": 65,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/oE2UbuSdqVs/maxresdefault.jpg",
+        "name":"3 SÉRIES PARA VOCÊ MARATONAR feat Bruno Correa!",
+        "url_video":"https://www.youtube.com/embed/oE2UbuSdqVs"
+    },
+    {
+        "id": 66,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/cg1_M0Z5k9g/maxresdefault.jpg",
+        "name":"Luz-Estrela Dançando ao Som de Brilha Brilha Estrelinha! | The Boys",
+        "url_video":"https://www.youtube.com/embed/cg1_M0Z5k9g"
+    },
+    {
+        "id": 67,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/738LBk846VE/maxresdefault.jpg",
+        "name":"Melhores Cenas de Pitch Perfect 3",
+        "url_video":"https://www.youtube.com/embed/738LBk846VE"
+    },
+    {
+        "id": 68,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/fWngmeUlTP8/maxresdefault.jpg",
+        "name":"Hughie reage às mortes mais chocantes de The Boys! | 1 Minuto",
+        "url_video":"https://www.youtube.com/embed/fWngmeUlTP8"
+    },
+    {
+        "id": 69,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/uaIkd_dcVAg/maxresdefault.jpg",
+        "name":"A missão dela apenas começou. Conheça Galadriel em #OsAnéisdePoder",
+        "url_video":"https://www.youtube.com/embed/uaIkd_dcVAg"
+    },
+    {
+        "id": 70,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/GaiVl4xLPbc/maxresdefault.jpg",
+        "name":"Capitão Pátria Perdendo Toda a Sanidade na Cena do Espelho | The Boys",
+        "url_video":"https://www.youtube.com/embed/GaiVl4xLPbc"
+    },
+    {
+        "id": 71,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/xIeJcdEYIKM/maxresdefault.jpg",
+        "name":"Como NÃO Ensinar Seu Filho a Voar com Homelander e Omni-Man | Diálogos Improváveis",
+        "url_video":"https://www.youtube.com/embed/xIeJcdEYIKM"
+    },
+    {
+        "id": 72,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/AKGQryoasMM/maxresdefault.jpg",
+        "name":"Capitão Pátria: O Maior Fofoqueiro de The Boys! | 1 Minuto",
+        "url_video":"https://www.youtube.com/embed/AKGQryoasMM"
+    },
+    {
+        "id": 73,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/G6SSucrfmTY/maxresdefault.jpg",
+        "name":"Recado do elenco de The Boys para o Brasil!",
+        "url_video":"https://www.youtube.com/embed/G6SSucrfmTY"
+    },
+    {
+        "id": 74,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/U77cGVqhdq8/maxresdefault.jpg",
+        "name":"Capitão Pátria e Victoria Neuman sendo Melhores Amigos fora de The Boys!",
+        "url_video":"https://www.youtube.com/embed/U77cGVqhdq8"
+    },
+    {
+        "id": 75,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/B6HxGnVvkYw/maxresdefault.jpg",
+        "name":"Antony Starr Sendo a Melhor Pessoa do Mundo! | The Boys",
+        "url_video":"https://www.youtube.com/embed/B6HxGnVvkYw"
+    },
+    {
+        "id": 76,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/yMNS2T0zihM/maxresdefault.jpg",
+        "name":"Karl Urban e Jack Quaid Inventando a Amizade Perfeita! | The Boys | 1 Minuto",
+        "url_video":"https://www.youtube.com/embed/yMNS2T0zihM"
+    },
+    {
+        "id": 77,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/x66PdyNObYI/maxresdefault.jpg",
+        "name":"Elenco de The Boys em História de Amor com Comidas Brasileiras!",
+        "url_video":"https://www.youtube.com/embed/x66PdyNObYI"
+    },
+    {
+        "id": 78,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/fCUu5ykM_4w/maxresdefault.jpg",
+        "name":"Elenco de The Boys Provando que são Quase Brasileiros",
+        "url_video":"https://www.youtube.com/embed/fCUu5ykM_4w"
+    },
+    {
+        "id": 79,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/i8VU9Smkfmo/maxresdefault.jpg",
+        "name":"Elenco de The Boys Provando que são Quase Brasileiros - Parte 2",
+        "url_video":"https://www.youtube.com/embed/i8VU9Smkfmo"
+    },
+    {
+        "id": 80,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/ePGrMh2YlOA/maxresdefault.jpg",
+        "name":"The Boys em Crepúsculo?",
+        "url_video":"https://www.youtube.com/embed/ePGrMh2YlOA"
+    },
+    {
+        "id": 81,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/azqCeLiwj08/maxresdefault.jpg",
+        "name":"Personagens Perderam a Cabeça (Não Literalmente)",
+        "url_video":"https://www.youtube.com/embed/azqCeLiwj08"
+    },
+    {
+        "id": 82,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/rhlzkchhIg4/maxresdefault.jpg",
+        "name":"Antony Starr Sendo o Rei da Atuação como Capitão Pátria | The Boys",
+        "url_video":"https://www.youtube.com/embed/rhlzkchhIg4"
+    },
+    {
+        "id": 83,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/VrN4EWTLPjY/maxresdefault.jpg",
+        "name":"Como Realmente É Ser um Super Herói! | The Boys |  Expectativa vs. Realidade",
+        "url_video":"https://www.youtube.com/embed/VrN4EWTLPjY"
+    },
+    {
+        "id": 84,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/nr3gKRAgL7I/maxresdefault.jpg",
+        "name":"Gen V | Title Announce | Prime Video",
+        "url_video":"https://www.youtube.com/embed/nr3gKRAgL7I"
+    },
+    {
+        "id": 85,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/luo2tbWpjTM/maxresdefault.jpg",
+        "name":"Belly e Conrad em Um Eterno Quase em O Verão Que Mudou Minha Vida",
+        "url_video":"https://www.youtube.com/embed/luo2tbWpjTM"
+    },
+    {
+        "id": 86,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/iDoMh5Dtqu4/maxresdefault.jpg",
+        "name":"Maeve Entregando Tudo em The Boys",
+        "url_video":"https://www.youtube.com/embed/iDoMh5Dtqu4"
+    },
+    {
+        "id": 87,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/8FDu3QUFG5s/maxresdefault.jpg",
+        "name":"Capitão Pátria Sendo Macetado no Herogasm!",
+        "url_video":"https://www.youtube.com/embed/8FDu3QUFG5s"
+    },
+    {
+        "id": 88,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/QJlmxdsNxuM/maxresdefault.jpg",
+        "name":"Jensen Ackles Servindo TUDO em The Boys | Momento Apreciação",
+        "url_video":"https://www.youtube.com/embed/QJlmxdsNxuM"
+    },
+    {
+        "id": 89,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/OCxRczmkz5Y/maxresdefault.jpg",
+        "name":"Capitão Pátria Rindo como Um Maníaco | 1 Minuto",
+        "url_video":"https://www.youtube.com/embed/OCxRczmkz5Y"
+    },
+    {
+        "id": 90,
+        "streaming":"Prime_Video",
+        "category":"outros",
+        "thumb_img":"https://img.youtube.com/vi/LmR0Csd709k/maxresdefault.jpg",
+        "name":"Supers Sendo Supers em The Boys | 1 Minuto",
+        "url_video":"https://www.youtube.com/embed/LmR0Csd709k"
+    }
+]
