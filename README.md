@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png">
+  <img width="200" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png">
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 <h2 align="center">📖Sobre</h2>
 
-<p align="left">Este projeto foi realizado para estudo de criação de API no Node.JS. O back end com node é uma API que contém 155 items, sendo 101 somente de trailes/teasers oficiais. Os Trailers tem informações como id do item, nome do serviço de streaming, categoria do item, áudio(se é dublado ou legendado), descrição/sinopse, link da thumb do video, titulo e a url do vídeo(já pronta para colocar no "src" da tag iframe).</p>
+<p align="left">Este projeto foi realizado para estudo de criação de API no Node.JS. API que contém 155 items, sendo 101 somente de trailes/teasers oficiais. Os Trailers tem informações como id do item, nome do serviço de streaming, categoria do item, áudio(se é dublado ou legendado), descrição/sinopse, link da thumb do video, titulo e a url do vídeo(já pronta para colocar no "src" da tag iframe).</p>
 
 ---
 
