@@ -55,7 +55,6 @@ npm run start-dev
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Node](https://nodejs.org/en/)
-- [Vite](https://vitejs.dev/)
 
 ---
 
